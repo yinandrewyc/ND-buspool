@@ -1,0 +1,9 @@
+p {
+  font-family: Lato;
+}
+
+.toolbar {
+  background-color: #eeee;
+  position: fixed;
+  z-index: 1000;
+}
